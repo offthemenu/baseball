@@ -233,4 +233,4 @@ The change in Run Expectancy before the Pitch and after the Pitch
  * Does swing length tend to change based on the batting team's score against the fielding team's?
  * Does swing length tend to change based on the number count of appearance AND/OR number of ball count at bat and therefore can attribute to fatigue and/or patience?
  * Does swing length tend to change particularly for certain pitchers?
- * 
+ * Does swing length tend to affect batter's ability to react to varied pitch placement? Less or more sensitive in terms of successful hits to high-variance pitches?
