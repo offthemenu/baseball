@@ -1,5 +1,6 @@
 refreshers
 raw-data-ignore
+./raw-data-ignore/statcast_pitch_swing_data_20240402_20240630
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
