@@ -3,6 +3,9 @@ Baseball data project
 
 
 ## Glossary
+<details>
+<summary>Expand for attribute descriptions</summary>
+
 **pitch_type**
 The type of pitch derived from Statcast.
 
@@ -228,6 +231,7 @@ The change in Win Expectancy before the Plate Appearance and after the Plate App
 
 **delta_run_exp**
 The change in Run Expectancy before the Pitch and after the Pitch
+</details>
 
 ## Questions to Ask...assuming result of play as success metric
  * Does swing length tend to change based on the batting team's score against the fielding team's?
